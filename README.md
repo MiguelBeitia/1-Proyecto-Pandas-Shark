@@ -11,7 +11,9 @@ A su vez, hay una lista de cosas por hacer las cuales seran las siguientes:
   
           - valores nulos, caída de columnas, datos duplicados, manipulación de cadenas, aplicar fn, categorizar, expresiones regulares, etc.
           
-          
+Se han realizado estos pasos:
+
+  1- La importación de las distintas bibliotecas que se han utilizado
           
 # 1-Project-Pandas-Shark          
           
@@ -25,3 +27,8 @@ In turn, there is a list of things to do which will be the following:
   2- Using at least 5 data cleaning techniques inside a file called clean.ipynb:
   
           - null values, column dropping, duplicate data, string manipulation, apply fn, categorize, regular expressions, etc.
+
+
+These steps have been performed:
+
+  1- The import of the different libraries that have been used
