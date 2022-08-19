@@ -17,7 +17,9 @@ Se han realizado estos pasos:
   
   2- Abrir archivo con el que se va a trabajar
   
-  3- Empezar con la limpieza, los duplicados, los que contienen valor nulo, etc.
+  3- Ver que datos hay en el archivo
+  
+  4- Empezar con la limpieza, los duplicados, los que contienen valor nulo, etc.
           
 # 1-Project-Pandas-Shark          
           
