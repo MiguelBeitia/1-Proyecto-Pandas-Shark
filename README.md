@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110235113/185787929-68c33294-68d6-4eb2-9f74-0c7270b4918f.png)
+
+
+
 # 1-Proyecto-Pandas-Shark
 
 En este proyecto, realizare una disputa, limpieza y manejo de datos con Pandas.
