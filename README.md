@@ -29,7 +29,7 @@ Se han realizado estos pasos:
   
   6- Empezar a ver en cada columna los valores que posee
   
-  7- Agrupar las columnas por cosas similares y quitar los valores nulos
+  7- Agrupar las columnas por cosas similares y quitar los valores nulos (Esta se ha utilizado en el primer intento)
   
   8- Quitar lineas que veamos que no son importantes
   
@@ -62,7 +62,7 @@ These steps have been performed:
   
   6- Begin to see in each column the values it has
   
-  7- Group columns by similar things and remove null values
+  7- Group columns by similar things and remove null values  (This has been used on the first try)
   
   8- Remove lines that we see that are not important
 
