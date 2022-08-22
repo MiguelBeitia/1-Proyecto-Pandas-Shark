@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110235113/185787929-68c33294-68d6-4eb2-9f74-0c7270b4918f.png)
+
+
+
 # 1-Proyecto-Pandas-Shark
 
 En este proyecto, realizare una disputa, limpieza y manejo de datos con Pandas.
@@ -20,6 +24,15 @@ Se han realizado estos pasos:
   3- Ver que datos hay en el archivo
   
   4- Empezar con la limpieza, los duplicados, los que contienen valor nulo, etc.
+  
+  5- Quitar toda las lineas duplicadas
+  
+  6- Empezar a ver en cada columna los valores que posee
+  
+  7- Agrupar las columnas por cosas similares y quitar los valores nulos
+  
+  8- Quitar lineas que veamos que no son importantes
+  
           
 # 1-Project-Pandas-Shark          
           
@@ -38,3 +51,17 @@ In turn, there is a list of things to do which will be the following:
 These steps have been performed:
 
   1- The import of the different libraries that have been used
+  
+  2- Open file with which you are going to work
+  
+  3- See what data is in the file
+  
+  4- Start with the cleaning, the duplicates, those that contain null value, etc.
+  
+  5- Remove all duplicate lines
+  
+  6- Begin to see in each column the values it has
+  
+  7- Group columns by similar things and remove null values
+  
+  8- Remove lines that we see that are not important
