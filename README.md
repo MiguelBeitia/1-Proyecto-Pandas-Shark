@@ -65,3 +65,7 @@ These steps have been performed:
   7- Group columns by similar things and remove null values
   
   8- Remove lines that we see that are not important
+
+
+FUENTE DE LOS DATOS // DATA SOURCE
+https://www.kaggle.com/datasets/teajay/global-shark-attacks
