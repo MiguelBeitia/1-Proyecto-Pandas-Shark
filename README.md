@@ -31,7 +31,9 @@ Se han realizado estos pasos:
   
   7- Agrupar las columnas por cosas similares y quitar los valores nulos (Esta se ha utilizado en el primer intento)
   
-  8- Quitar lineas que veamos que no son importantes
+  8- Quitar lineas que veamos que no son importantes o que carecen de importancia
+  
+  9- Con los datos restantes, sacamos algun grafico.
   
           
 # 1-Project-Pandas-Shark          
@@ -64,7 +66,9 @@ These steps have been performed:
   
   7- Group columns by similar things and remove null values  (This has been used on the first try)
   
-  8- Remove lines that we see that are not important
+  8- Remove lines that we see that are not important or unimportant
+  
+  9- With the remaining data, we draw some graph.
 
 
 
